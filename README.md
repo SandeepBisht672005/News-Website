@@ -1,25 +1,23 @@
-# News Website
+# 📰 News Website
 
-A simple responsive news website built using HTML, CSS, and JavaScript.
+A responsive news website built using HTML, CSS, and JavaScript that fetches and displays the latest news using a REST API.
 
-## Features
-- Displays latest news articles
+## 🚀 Features
+- Fetches latest news using REST API
+- Dynamic news content loading
 - Clean and responsive UI
+- Category-based news display
 - Simple navigation layout
-- Static front-end project
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
+- REST API
 
-## Project Structure
-index.html – Main webpage  
-style.css – Website styling  
-script.js – JavaScript functionality
+## 🌐 How It Works
+The website uses a REST API to request news data from a server. The API returns news articles in JSON format, which are then dynamically displayed on the webpage using JavaScript.
 
-## Preview
-This project demonstrates a basic news website layout suitable for learning front-end development.
-
-## Author
-Sandeep Bisht
+## 👨‍💻 Author
+Sandeep Bisht  
+Computer Science Engineering Student
